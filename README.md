@@ -1,4 +1,4 @@
-#  Identify relevant galaxy properties
+#  Simulations for Covariance Studies
 
 Summary -- Set of large simulations and related mock catalogs for large scale structure investigations and covariances.
 
